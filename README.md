@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chevy! <br/><a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1>Hi, I'm Chevy! <br/><a href="https://github.com/shaolin-diamonds">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -22,11 +22,11 @@
 
 - 📫 How to reach me: crios0718@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: There is a paranormal detective comic concept rolling around my head
-- 🔭 I’m currently working as an Intern for the Software Development team at Stearns Bank 
+- ⚡ Fun fact: There is a paranormal detective comic concept rolling around in my head
+- 🔭 Software Developer Associate at Stearns Bank 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shaolin-diamonds/shaolin-diamonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
