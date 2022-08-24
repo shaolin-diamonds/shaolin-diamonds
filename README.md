@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chevy! <br/><a href="https://github.com/shaolin-diamonds">Programmer</a></h1>
+<h1>Hi, I'm Chevy! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
