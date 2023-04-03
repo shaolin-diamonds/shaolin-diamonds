@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+  - <b>PowerShell</b>
+  - [Active Directory Bulk User Creation](https://github.com/shaolin-diamonds/ActiveDirectoryLab)
+  
 - <b>C# (.NET Desktop Applications)</b>
   - [Digital Clock](https://github.com/shaolin-diamonds/DigitalClock)
   - [Pizza Ordering GUI](https://github.com/shaolin-diamonds/GUIpizza)
