@@ -6,7 +6,7 @@
    - [Active Directory Bulk User Creation](https://github.com/shaolin-diamonds/ActiveDirectoryLab)
   
 - <b>C# (.NET Desktop Applications)</b>
-  - [Digital Clock](https://github.com/shaolin-diamonds/DigitalClock)
+  - [Rest API](https://github.com/shaolin-diamonds/Rest-API)
   - [Pizza Ordering GUI](https://github.com/shaolin-diamonds/GUIpizza)
   - [Delivery Charges GUI](https://github.com/shaolin-diamonds/DeliveryCharges)
   - [GuessAWord Game](https://github.com/shaolin-diamonds/GuessAWordOnline)
