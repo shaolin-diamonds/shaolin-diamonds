@@ -8,7 +8,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Rest API](https://github.com/shaolin-diamonds/Rest-API)
   - [Keylogger with Email Capability](https://github.com/shaolin-diamonds/thekeylogger.git)
-  - [Pizza Ordering GUI](https://github.com/shaolin-diamonds/GUIpizza)
+  - [Student Assignment Request](https://github.com/shaolin-diamonds/RiosFinalSchool) <i>[SQL/Database included]</i>
   - [Delivery Charges GUI](https://github.com/shaolin-diamonds/DeliveryCharges)
 
 - <b>HTML/CSS/PHP/JS</b>
