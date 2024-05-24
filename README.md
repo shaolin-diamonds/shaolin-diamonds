@@ -28,7 +28,7 @@
 - 📫 How to reach me: crios0718@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: There is a paranormal detective comic concept rolling around in my head
-- 🔭 Software Developer Associate Intern at Stearns Bank 
+- 🔭 Previously a Software Developer Associate Intern at Stearns Bank 
 
 <!--
 **shaolin-diamonds/shaolin-diamonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
